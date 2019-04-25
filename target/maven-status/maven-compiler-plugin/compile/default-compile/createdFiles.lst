@@ -1,0 +1,7 @@
+com/lumar/googlecloud/service/entity/TypeTemplate.class
+com/lumar/googlecloud/service/model/Type.class
+com/lumar/googlecloud/service/ServletInitializer.class
+com/lumar/googlecloud/service/datastore/TypeDataStore.class
+com/lumar/googlecloud/service/model/CreateTypeTemplate.class
+com/lumar/googlecloud/service/GoogleTypeService.class
+com/lumar/googlecloud/service/model/TypeRequest.class

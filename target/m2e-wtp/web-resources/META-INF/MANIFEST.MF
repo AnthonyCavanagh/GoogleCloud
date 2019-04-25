@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: anthonycavanagh
+Build-Jdk: 11.0.2
+Implementation-Title: lumarTypeService
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.lumar.googlecloud.service
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/typewebservice
+Created-By: Maven Integration for Eclipse
+
